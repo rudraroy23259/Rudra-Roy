@@ -8,17 +8,17 @@ I’m passionate about learning new technologies and building projects step by s
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Programming & Development**
-- 💡 Interested in **Web Development, Software Development**
+- 🌱 Currently learning ** dsa **
+- 💡 Interested in **, Software Development**
 - 🎯 Goal: Become a skilled developer and build real-world projects
 - 📚 Always curious to learn something new
 
 ---
 
 ## 🛠️ Skills (Learning / Using)
-- 💻 Languages: `C` `C++` `Java` `Python` (add/remove as needed)
-- 🌐 Web: `HTML` `CSS` `JavaScript`
-- 🛠 Tools: `Git` `GitHub` `VS Code`
+- 💻 Languages: `C` `Java` (add/remove as needed)
+- 🌐 Web: `HTML` `CSS`
+- 🛠 Tools:  `GitHub` `VS Code`
 
 ---
 
