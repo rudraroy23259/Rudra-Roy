@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rudra Roy
 
-🎓 Student | 💻 Aspiring Developer | 🚀 Learning & Building
+🎓 Student |
 
 Welcome to my GitHub profile!  
 I’m passionate about learning new technologies and building projects step by step.
@@ -9,9 +9,8 @@ I’m passionate about learning new technologies and building projects step by s
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning ** dsa **
-- 💡 Interested in **, Software Development**
 - 🎯 Goal: Become a skilled developer and build real-world projects
-- 📚 Always curious to learn something new
+- 
 
 ---
 
